@@ -1,0 +1,132 @@
+D:\!работа\C#\Robot_ver5\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.dll
+D:\!работа\C#\Robot_ver5\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.pdb
+D:\!работа\C#\Robot_ver5\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.dll
+D:\!работа\C#\Robot_ver5\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.dll
+D:\!работа\C#\Robot_ver5\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.xml
+D:\!работа\C#\Robot_ver5\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.xml
+D:\!работа\C#\Robot_ver5\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csprojAssemblyReference.cache
+D:\!работа\C#\Robot_ver5\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CoreCompileInputs.cache
+D:\!работа\C#\Robot_ver5\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CopyComplete
+D:\!работа\C#\Robot_ver5\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.dll
+D:\!работа\C#\Robot_ver5\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.pdb
+D:\!работа\Методика обучения\5.18\C#2\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.dll
+D:\!работа\Методика обучения\5.18\C#2\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.pdb
+D:\!работа\Методика обучения\5.18\C#2\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.dll
+D:\!работа\Методика обучения\5.18\C#2\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.dll
+D:\!работа\Методика обучения\5.18\C#2\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.xml
+D:\!работа\Методика обучения\5.18\C#2\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.xml
+D:\!работа\Методика обучения\5.18\C#2\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csprojAssemblyReference.cache
+D:\!работа\Методика обучения\5.18\C#2\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CoreCompileInputs.cache
+D:\!работа\Методика обучения\5.18\C#2\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CopyComplete
+D:\!работа\Методика обучения\5.18\C#2\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.dll
+D:\!работа\Методика обучения\5.18\C#2\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.pdb
+D:\!работа\C#\Robot_ver6\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.dll
+D:\!работа\C#\Robot_ver6\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.pdb
+D:\!работа\C#\Robot_ver6\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.dll
+D:\!работа\C#\Robot_ver6\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.dll
+D:\!работа\C#\Robot_ver6\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.xml
+D:\!работа\C#\Robot_ver6\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.xml
+D:\!работа\C#\Robot_ver6\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csprojAssemblyReference.cache
+D:\!работа\C#\Robot_ver6\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CoreCompileInputs.cache
+D:\!работа\C#\Robot_ver6\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CopyComplete
+D:\!работа\C#\Robot_ver6\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.dll
+D:\!работа\C#\Robot_ver6\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.pdb
+E:\C#\Robot_ver6\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.dll
+E:\C#\Robot_ver6\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.pdb
+E:\C#\Robot_ver6\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.dll
+E:\C#\Robot_ver6\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.dll
+E:\C#\Robot_ver6\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.xml
+E:\C#\Robot_ver6\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.xml
+E:\C#\Robot_ver6\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csprojAssemblyReference.cache
+E:\C#\Robot_ver6\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CoreCompileInputs.cache
+E:\C#\Robot_ver6\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CopyComplete
+E:\C#\Robot_ver6\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.dll
+E:\C#\Robot_ver6\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.pdb
+D:\!работа\C#\Robot_ver7_Urolog\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.dll
+D:\!работа\C#\Robot_ver7_Urolog\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.pdb
+D:\!работа\C#\Robot_ver7_Urolog\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.dll
+D:\!работа\C#\Robot_ver7_Urolog\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.dll
+D:\!работа\C#\Robot_ver7_Urolog\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.xml
+D:\!работа\C#\Robot_ver7_Urolog\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.xml
+D:\!работа\C#\Robot_ver7_Urolog\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csprojAssemblyReference.cache
+D:\!работа\C#\Robot_ver7_Urolog\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CoreCompileInputs.cache
+D:\!работа\C#\Robot_ver7_Urolog\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CopyComplete
+D:\!работа\C#\Robot_ver7_Urolog\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.dll
+D:\!работа\C#\Robot_ver7_Urolog\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.pdb
+G:\1\Robot_ver7_Urolog\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.dll
+G:\1\Robot_ver7_Urolog\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.pdb
+G:\1\Robot_ver7_Urolog\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.dll
+G:\1\Robot_ver7_Urolog\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.dll
+G:\1\Robot_ver7_Urolog\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.xml
+G:\1\Robot_ver7_Urolog\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.xml
+G:\1\Robot_ver7_Urolog\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csprojAssemblyReference.cache
+G:\1\Robot_ver7_Urolog\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CoreCompileInputs.cache
+G:\1\Robot_ver7_Urolog\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CopyComplete
+G:\1\Robot_ver7_Urolog\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.dll
+G:\1\Robot_ver7_Urolog\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.pdb
+D:\!работа\C#\Urolog_Рабочая версия\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.dll
+D:\!работа\C#\Urolog_Рабочая версия\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.pdb
+D:\!работа\C#\Urolog_Рабочая версия\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.dll
+D:\!работа\C#\Urolog_Рабочая версия\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.dll
+D:\!работа\C#\Urolog_Рабочая версия\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.xml
+D:\!работа\C#\Urolog_Рабочая версия\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.xml
+D:\!работа\C#\Urolog_Рабочая версия\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csprojAssemblyReference.cache
+D:\!работа\C#\Urolog_Рабочая версия\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CoreCompileInputs.cache
+D:\!работа\C#\Urolog_Рабочая версия\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CopyComplete
+D:\!работа\C#\Urolog_Рабочая версия\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.dll
+D:\!работа\C#\Urolog_Рабочая версия\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.pdb
+D:\!работа\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.dll
+D:\!работа\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.pdb
+D:\!работа\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.dll
+D:\!работа\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.dll
+D:\!работа\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.xml
+D:\!работа\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.xml
+D:\!работа\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CoreCompileInputs.cache
+D:\!работа\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CopyComplete
+D:\!работа\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.dll
+D:\!работа\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.pdb
+D:\!работа\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csprojAssemblyReference.cache
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.dll
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.pdb
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.dll
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.dll
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.xml
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.xml
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csprojAssemblyReference.cache
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CoreCompileInputs.cache
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CopyComplete
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.dll
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.pdb
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.dll
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.pdb
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.dll
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.dll
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.xml
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.xml
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CoreCompileInputs.cache
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CopyComplete
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.dll
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.pdb
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csprojAssemblyReference.cache
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.dll
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.pdb
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.dll
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.dll
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.xml
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.xml
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csprojAssemblyReference.cache
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CoreCompileInputs.cache
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CopyComplete
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.dll
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.pdb
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.dll
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\RoboKinematics.pdb
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.dll
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.dll
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\MathNet.Numerics.xml
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\bin\Debug\MathNet.Spatial.xml
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.AssemblyReference.cache
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CoreCompileInputs.cache
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.csproj.CopyComplete
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.dll
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RoboKine\RoboKinematics\obj\Debug\RoboKinematics.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboMain", "RoboMain\RoboMain.csproj", "{06126D30-7AF1-4078-BCA3-8F25425CF56A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboKinematics", "RoboKinematics\RoboKinematics.csproj", "{5FF39CEC-E1EC-4FAB-8BD8-16BF336DBB06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06126D30-7AF1-4078-BCA3-8F25425CF56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06126D30-7AF1-4078-BCA3-8F25425CF56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06126D30-7AF1-4078-BCA3-8F25425CF56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06126D30-7AF1-4078-BCA3-8F25425CF56A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF39CEC-E1EC-4FAB-8BD8-16BF336DBB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF39CEC-E1EC-4FAB-8BD8-16BF336DBB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF39CEC-E1EC-4FAB-8BD8-16BF336DBB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF39CEC-E1EC-4FAB-8BD8-16BF336DBB06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BA53A12-3CD2-4F6E-91A9-4C9CCC97EBD7}
+	EndGlobalSection
+EndGlobal
