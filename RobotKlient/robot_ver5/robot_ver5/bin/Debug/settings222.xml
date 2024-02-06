@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Robot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ip="127.0.0.1" port="1234">
+  <LeftArm Name="Left">
+    <DenavitHartenberg>
+      <Joint Name="L.ShoulderS" A="0.16" D="0" Alpha="1.5708" Theta="0" LowerLimit="-1.574" UpperLimit="0" QCurrent="-1.5707963267948966" TypeJoint="Revol" />
+      <Joint Name="L.ShoulderF" A="0" D="0" Alpha="1.5708" Theta="-1.5708" LowerLimit="0" UpperLimit="1.5708" QCurrent="1.3962634015954636" TypeJoint="Revol" />
+      <Joint Name="L.ElbowR" A="0" D="-0.422" Alpha="1.5708" Theta="3.14" LowerLimit="-1.5708" UpperLimit="1.5708" QCurrent="0" TypeJoint="Revol" />
+      <Joint Name="L.Elbow" A="0" D="0" Alpha="1.5708" Theta="3.14" LowerLimit="-1.5708" UpperLimit="0" QCurrent="-1.5707963267948966" TypeJoint="Revol" />
+      <Joint Name="L.WristR" A="0" D="-0.457" Alpha="1.5708" Theta="3.14" LowerLimit="-1.5708" UpperLimit="1.5708" QCurrent="-0.017453292519943295" TypeJoint="Revol" />
+      <Joint Name="L.WristF" A="-0.541" D="0" Alpha="0" Theta="1.5708" LowerLimit="-1.5708" UpperLimit="1.5708" QCurrent="0" TypeJoint="Revol" />
+      <WorldFrame>
+        <Row>
+          <double>0</double>
+          <double>0</double>
+          <double>1</double>
+          <double>0.4</double>
+        </Row>
+        <Row>
+          <double>0</double>
+          <double>1</double>
+          <double>0</double>
+          <double>0</double>
+        </Row>
+        <Row>
+          <double>-1</double>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+        </Row>
+        <Row>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+          <double>1</double>
+        </Row>
+      </WorldFrame>
+    </DenavitHartenberg>
+  </LeftArm>
+  <RightArm Name="Right">
+    <DenavitHartenberg>
+      <Joint Name="R.ShoulderS" A="0.16" D="0" Alpha="1.5708" Theta="0" LowerLimit="-1.574" UpperLimit="0" QCurrent="-1.3962634015954636" TypeJoint="Revol" />
+      <Joint Name="R.ShoulderF" A="0" D="0" Alpha="1.5708" Theta="-1.5708" LowerLimit="-1.5708" UpperLimit="0" QCurrent="-1.3962634015954636" TypeJoint="Revol" />
+      <Joint Name="R.ElbowR" A="0" D="-0.422" Alpha="1.5708" Theta="3.14" LowerLimit="-1.5708" UpperLimit="1.5708" QCurrent="0" TypeJoint="Revol" />
+      <Joint Name="R.Elbow" A="0" D="0" Alpha="1.5708" Theta="3.14" LowerLimit="0" UpperLimit="1.5708" QCurrent="1.5707963267948966" TypeJoint="Revol" />
+      <Joint Name="R.WristR" A="0" D="-0.457" Alpha="1.5708" Theta="3.14" LowerLimit="-1.5708" UpperLimit="1.5708" QCurrent="0" TypeJoint="Revol" />
+      <Joint Name="R.WristF" A="-0.341" D="0" Alpha="0" Theta="1.5708" LowerLimit="-1.5708" UpperLimit="1.5708" QCurrent="0" TypeJoint="Revol" />
+      <WorldFrame>
+        <Row>
+          <double>0</double>
+          <double>0</double>
+          <double>1</double>
+          <double>-0.4</double>
+        </Row>
+        <Row>
+          <double>0</double>
+          <double>1</double>
+          <double>0</double>
+          <double>0</double>
+        </Row>
+        <Row>
+          <double>-1</double>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+        </Row>
+        <Row>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+          <double>1</double>
+        </Row>
+      </WorldFrame>
+    </DenavitHartenberg>
+  </RightArm>
+</Robot>

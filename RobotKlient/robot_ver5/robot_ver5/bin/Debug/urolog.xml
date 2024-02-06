@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Robot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ip="1" port="0">
+  <LeftArm Name="Left">
+    <DenavitHartenberg>
+      <Joint Name="None" A="0" D="0" Alpha="0" Theta="0" LowerLimit="0" UpperLimit="0" QCurrent="0" TypeJoint="Revol" />
+      <WorldFrame>
+        <Row>
+          <double>1</double>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+        </Row>
+        <Row>
+          <double>0</double>
+          <double>0</double>
+          <double>-1</double>
+          <double>0</double>
+        </Row>
+        <Row>
+          <double>0</double>
+          <double>1</double>
+          <double>0</double>
+          <double>0</double>
+        </Row>
+        <Row>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+          <double>1</double>
+        </Row>
+      </WorldFrame>
+    </DenavitHartenberg>
+  </LeftArm>
+  <RightArm Name="Right">
+    <DenavitHartenberg>
+      <Joint Name="Двигатель 1" A="0" D="0" Alpha="-1.574" Theta="0" LowerLimit="-1.2217" UpperLimit="1.2217" QCurrent="0" TypeJoint="Revol" />
+      <Joint Name="Неподвижный" A="0" D="0.5" Alpha="1.574" Theta="0" LowerLimit="0" UpperLimit="0" QCurrent="0" TypeJoint="Prizm" />
+      <Joint Name="Неподвижный" A="0" D="0.6" Alpha="1.574" Theta="0" LowerLimit="0" UpperLimit="0" QCurrent="0" TypeJoint="Prizm" />
+      <Joint Name="Двигатель 4" A="0" D="0.3" Alpha="1.574" Theta="1.574" LowerLimit="-1.2217" UpperLimit="1.2217" QCurrent="0" TypeJoint="Revol" />
+      <Joint Name="Движение инструмента" A="0" D="0.06" Alpha="1.574" Theta="3.14" LowerLimit="0" UpperLimit="0.26" QCurrent="0" TypeJoint="Prizm" />
+      <Joint Name="Неподвижный" A="0" D="0.2" Alpha="1.574" Theta="0" LowerLimit="0" UpperLimit="0" QCurrent="0" TypeJoint="Prizm" />
+      <Joint Name="Вращение инструмента" A="0" D="0.32" Alpha="0" Theta="0" LowerLimit="-1.574" UpperLimit="1.574" QCurrent="0" TypeJoint="Revol" />
+      <WorldFrame>
+        <Row>
+          <double>1</double>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+        </Row>
+        <Row>
+          <double>0</double>
+          <double>0</double>
+          <double>-1</double>
+          <double>0</double>
+        </Row>
+        <Row>
+          <double>0</double>
+          <double>1</double>
+          <double>0</double>
+          <double>0.12</double>
+        </Row>
+        <Row>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+          <double>1</double>
+        </Row>
+      </WorldFrame>
+    </DenavitHartenberg>
+  </RightArm>
+</Robot>

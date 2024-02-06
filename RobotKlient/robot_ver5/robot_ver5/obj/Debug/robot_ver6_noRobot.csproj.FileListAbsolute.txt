@@ -1,0 +1,106 @@
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\robot_ver5.exe.config
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\robot_ver5.exe
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\robot_ver5.pdb
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\RoboKinematics.dll
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Spatial.dll
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Numerics.dll
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\RoboKinematics.pdb
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Spatial.xml
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Numerics.xml
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csprojAssemblyReference.cache
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.JointControl.resources
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Properties.Resources.resources
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csproj.GenerateResource.cache
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csproj.CoreCompileInputs.cache
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csproj.CopyComplete
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.exe
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.pdb
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Form_Setting.resources
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Form1.resources
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.DHControl.resources
+D:\!работа\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Form_NewRobot.resources
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\robot_ver5.exe.config
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\robot_ver5.exe
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\robot_ver5.pdb
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\RoboKinematics.dll
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Spatial.dll
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Numerics.dll
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\RoboKinematics.pdb
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Spatial.xml
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Numerics.xml
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csprojAssemblyReference.cache
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.DHControl.resources
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Form1.resources
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Form_Setting.resources
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Form_NewRobot.resources
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.JointControl.resources
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Properties.Resources.resources
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csproj.GenerateResource.cache
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csproj.CoreCompileInputs.cache
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csproj.CopyComplete
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.exe
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота2\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.pdb
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\robot_ver5.exe.config
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\robot_ver5.exe
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\robot_ver5.pdb
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\RoboKinematics.dll
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Spatial.dll
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Numerics.dll
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\RoboKinematics.pdb
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Spatial.xml
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Numerics.xml
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csprojAssemblyReference.cache
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.DHControl.resources
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Form1.resources
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Form_Setting.resources
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Form_NewRobot.resources
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.JointControl.resources
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Properties.Resources.resources
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csproj.GenerateResource.cache
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csproj.CoreCompileInputs.cache
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csproj.CopyComplete
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.exe
+D:\!работа\!Севастополь\C#\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.pdb
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\robot_ver5.exe.config
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\robot_ver5.exe
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\robot_ver5.pdb
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\RoboKinematics.dll
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Spatial.dll
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Numerics.dll
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\RoboKinematics.pdb
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Spatial.xml
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Numerics.xml
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csprojAssemblyReference.cache
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.DHControl.resources
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Form1.resources
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Form_Setting.resources
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Form_NewRobot.resources
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.JointControl.resources
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Properties.Resources.resources
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csproj.GenerateResource.cache
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csproj.CoreCompileInputs.cache
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csproj.CopyComplete
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.exe
+D:\!работа\!Севастополь\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.pdb
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\robot_ver5.exe.config
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\robot_ver5.exe
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\robot_ver5.pdb
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\RoboKinematics.dll
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Spatial.dll
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Numerics.dll
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\RoboKinematics.pdb
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Spatial.xml
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\bin\Debug\MathNet.Numerics.xml
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csproj.AssemblyReference.cache
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csproj.SuggestedBindingRedirects.cache
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.DHControl.resources
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Form1.resources
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Form_Setting.resources
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Form_NewRobot.resources
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.JointControl.resources
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.Properties.Resources.resources
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csproj.GenerateResource.cache
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csproj.CoreCompileInputs.cache
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver6_noRobot.csproj.CopyComplete
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.exe
+D:\!работа\C#\Роботы\Без робота\Robot_ver6_без_робота3\RobotKlient\robot_ver5\robot_ver5\obj\Debug\robot_ver5.pdb

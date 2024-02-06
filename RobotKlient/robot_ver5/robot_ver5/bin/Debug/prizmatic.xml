@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Robot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ip="127.0.0.1" port="10099">
+  <LeftArm Name="Left">
+    <DenavitHartenberg>
+      <Joint Name="Name" A="0" D="0" Alpha="0" Theta="0" LowerLimit="0" UpperLimit="0" QCurrent="0" TypeJoint="Revol" />
+      <WorldFrame>
+        <Row>
+          <double>0</double>
+          <double>0</double>
+          <double>1</double>
+          <double>0</double>
+        </Row>
+        <Row>
+          <double>0</double>
+          <double>1</double>
+          <double>0</double>
+          <double>0</double>
+        </Row>
+        <Row>
+          <double>-1</double>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+        </Row>
+        <Row>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+          <double>1</double>
+        </Row>
+      </WorldFrame>
+    </DenavitHartenberg>
+  </LeftArm>
+  <RightArm Name="Right">
+    <DenavitHartenberg>
+      <Joint Name="Name" A="0" D="0.1" Alpha="1.57" Theta="0" LowerLimit="0" UpperLimit="3" QCurrent="0" TypeJoint="Prizm" />
+      <Joint Name="Name" A="0" D="0.1" Alpha="1.57" Theta="1.57" LowerLimit="0" UpperLimit="3" QCurrent="0" TypeJoint="Prizm" />
+      <Joint Name="Name" A="0" D="0.1" Alpha="0" Theta="0" LowerLimit="0" UpperLimit="3" QCurrent="0" TypeJoint="Prizm" />
+      <WorldFrame>
+        <Row>
+          <double>0</double>
+          <double>0</double>
+          <double>1</double>
+          <double>0</double>
+        </Row>
+        <Row>
+          <double>0</double>
+          <double>1</double>
+          <double>0</double>
+          <double>0</double>
+        </Row>
+        <Row>
+          <double>-1</double>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+        </Row>
+        <Row>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+          <double>1</double>
+        </Row>
+      </WorldFrame>
+    </DenavitHartenberg>
+  </RightArm>
+</Robot>
